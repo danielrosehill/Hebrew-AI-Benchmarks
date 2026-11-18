@@ -1,0 +1,3 @@
+# Hebrew-AI-Benchmarks
+
+Public list of benchmarks, eval sets and leaderboards for Hebrew-language AI (README.md), under hub danielrosehill/Hebrew-AI (~/repos/indexing-repos/Hebrew-AI). Scope in SCOPE.md. Multilingual benchmarks with a Hebrew split stay in their own section; † marks entries maintained by Daniel (Hebrish / danielrosehill). Seeded 2026-11-18 from a verified sweep (every URL returned 200; Hebrew configs of FLEURS/Belebele/Global-MMLU checked via datasets-server). Unverified leads not yet added: Hebrew NER (NEMO), SASPEECH/ILSpeech as eval sets, GlotOCR Bench (arXiv 2604.12978), small 0-star GitHub evals (roy2392/hebrew-ocr-eval, eyalmazuz/Hebrew-LLM-Eval, algotouch/hebrew-agent-eval).
